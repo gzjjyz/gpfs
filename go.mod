@@ -1,3 +1,3 @@
-module github.com/gzjjyz/gfps
+module github.com/gzjjyz/gpfs
 
 go 1.20
